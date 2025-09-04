@@ -1,4 +1,4 @@
-# JAHNAVI
+# JAHNAVI J P
 <h1 align="center">Hi 👋, I'm Jahnavi J P</h1>
 <h3 align="center">🎓 Final Year CSE-Data Science Student | 💻 Full Stack Developer | ☁️ Big Data & Cloud Enthusiast | 🤖 AIML Researcher</h3>
 
@@ -31,7 +31,7 @@
 
 ### 📫 Reach Me At
 📩 **Email:** [jahnavi2056@gmail.com](mailto:jahnavi2056@gmail.com)  
-🔗 **Resume:** [View PDF](https://drive.google.com/file/d/149ZfBokDe1sVqNjiCIOU7j3YhHOCC3kb/view?usp=drivesdk)
+🔗 **Resume:** [View PDF](https://drive.google.com/file/d/17_XT7Zkn3H7MlMyjTn1WoIR41e191Psa/view?usp=sharing)
 
 ---
 
